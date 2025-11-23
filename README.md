@@ -6,7 +6,7 @@
 
 
 <div align=center>
-<img src="https://github.com/XiaoRong24/FDRect/blob/main/Network.jpg"/>
+<img src="[https://github.com/XiaoRong24/FDRect/blob/main/Network.jpg"](https://github.com/XiaoRong24/FDRect/blob/main/Network.png)/>
 </div>
 
 

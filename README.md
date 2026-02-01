@@ -9,6 +9,18 @@
 <img src="https://github.com/XiaoRong24/FDRect/blob/main/Network.png"/>
 </div>
 
+## 🚀 Demo
+[![Hugging Face Spaces](https://img.shields.io/badge/🤗-Open%20in%20Spaces-blue)](https://huggingface.co/spaces/FuShu24/FDRect-Demo)
+Upload input and mask images, then click Start Rectification
+###
+pip install -r requirements.txt
+python demo.py
+
+<div align=center>
+<img src="https://github.com/XiaoRong24/FDRect/blob/main/DemoShow.png"/>
+</div>
+
+
 
 ## Requirement
 * python 3.10.16

@@ -29,7 +29,6 @@ Our model delivers competitive reconstruction quality while operating within the
 
 | Method | #Params (M) | GFLOPs $\downarrow$ | Throughput (FPS) | Peak VRAM | SSIM $\uparrow$ | PSNR (dB) $\uparrow$ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| DeepRectangling | 50.91 | 35.09 | 22.99 | 148.2 MB | 0.7141 | 21.27 |
 | **FDRect (Full)** | **4.56** | **2.51** | **31.34** | **33.91 MB** | **0.7960** | **22.70** |
 | **FDRect-Lite** | **1.69** | **1.14** | **55.57** | **7.68 MB** | **0.7835** | **22.36** |
 
